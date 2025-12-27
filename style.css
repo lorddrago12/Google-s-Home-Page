@@ -87,15 +87,44 @@ a {
     display: flex;
     align-items: center;
     justify-content: center;
+    border: 1px solid #dfe1e5;
+    gap: 1rem;
+    border-radius: 30px;
+    padding: 0.25rem 1rem;
 }
 
 .search-form label {
     display: none;
 }
 
-.search-form-input {
+.search-form-input input {
     width: 27rem;
     padding: 0.5rem;
     border: none;
     outline: none;
+}
+
+.search-form-buttons button {
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 8px;
+    padding: 0 16px;
+    height: 36px;
+    margin: 0 4px;
+    cursor: pointer;
+}
+
+.bottom-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: f2f2f2;
+    padding: 1rem 1.5rem;
+    margin-top: 15rem;
+}
+
+.bottom-left,
+.bottom-right {
+    display: flex;
+    gap: 1.8rem
 }
