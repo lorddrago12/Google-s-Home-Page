@@ -9,6 +9,7 @@ This project was created while learning the fundamentals of web development, foc
 # 🧰 Technologies Used
 
 `HTML`
+
 `CSS`
 
 ---
