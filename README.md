@@ -39,7 +39,16 @@ This project was created while learning the fundamentals of web development, foc
 
 ---
 
+# 🍿 Screeenshot
+
+<img width="1919" height="947" alt="image" src="https://github.com/user-attachments/assets/4fe3d620-0bb0-47f1-a7a5-8ec862dac4db" />
+
+---
+
+
 # 📝 Notes
 
 This project is only done for learning purposes.
 It helped me understand how real websites are structured and styled using just HTML and CSS 🚀
+
+---
